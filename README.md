@@ -16,8 +16,6 @@
 | <a href="usage.llm.md">Usage (LLM)</a>
 </p> -->
 
----
-
 A **silence pre-pass** tool for multi-person dialogue audio before it goes into an editor.
 
 It finds stretches where **everyone is silent at the same time**, shortens them (not removes them), and outputs each track separately while keeping all tracks aligned. The result can go straight into your editing software for fine-tuning.
