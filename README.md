@@ -2,14 +2,21 @@
 <p align="right">
 <b>English</b>
 | <a href="README.zh-CN.md">简体中文</a>
-| <a href="README.ja.md">日本語</a>
-| <a href="README.pt-BR.md">Português</a>
+| <a href="README.llm.md">LLM</a>
 </p>
 </sup>
 
 <a href="https://audio-meet.localwu.com/?f=ghrdm">
-<img width="3600" alt="audio-meet readme header" src="https://dst1.localwu.top/project/audio-meet/readme/header.svg?v=183u2sx" />
+<img width="3600" alt="audio-meet readme header" src="https://dst1.localwu.top/project/audio-meet/readme/header.svg?v=183u2easx" />
 </a>
+
+<!-- <p>
+<a href="https://audio-meet.localwu.com">Website</a>
+| <a href="usage.human.md">Usage (Human)</a>
+| <a href="usage.llm.md">Usage (LLM)</a>
+</p> -->
+
+---
 
 A **silence pre-pass** tool for multi-person dialogue audio before it goes into an editor.
 
