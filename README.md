@@ -10,6 +10,8 @@
 <img width="3600" alt="audio-meet readme header" src="https://dst1.localwu.top/project/audio-meet/readme/header.svg?v=182easxuy#en" />
 </a>
 
+<a href="#zh">中文</a>
+
 <!-- <p>
 <a href="https://audio-meet.localwu.com">Website</a>
 | <a href="usage.human.md">Usage (Human)</a>
