@@ -6,8 +6,23 @@
 </p>
 </sup>
 
-<a href="https://audio-meet.localwu.com/?f=ghrdm" style="--ver-lang-en:0;">
-<img width="3600" alt="audio-meet readme header" src="https://dst1.localwu.top/project/audio-meet/readme/header.svg?v=182easxuye" />
+<a href="https://audio-meet.localwu.com/?f=ghrdm">
+<!-- ghrepo with rawgh no commit hash OK -->
+<img width="3600" alt="audio-meet readme header" src="https://raw.githubusercontent.com/DashCal/DashCal/main/docs/asset/project/audio-meet/readme/header.svg#en" />
+<!-- <img width="3600" alt="audio-meet readme header" src="https://camo.githubusercontent.com/f0224ac6930df89d3d82363f5161863783dcca987ec92238c83a70067cc96673/68747470733a2f2f647374312e6c6f63616c77752e746f702f70726f6a6563742f617564696f2d6d6565742f726561646d652f6865616465722e7376673f763d31383265617378757965#en" /> 
+-->
+<!-- cfpages with self-domain NO -->
+<!-- <img width="3600" alt="audio-meet readme header" src="https://dst1.localwu.top/project/audio-meet/readme/header.svg?v=182easxuye#en" /> -->
+<!-- ghrepo with direct-url OK -->
+<!-- <img width="3600" alt="audio-meet readme header" src="https://github.com/DashCal/gReadmeTest/blob/main/audio-meet-header-repo.svg#en" /> -->
+<!-- ghpages with self-domain NO -->
+<!-- <img width="3600" alt="audio-meet readme header" src="https://dstghdc1.localwu.top/asset/project/audio-meet/readme/header.svg#en" /> -->
+<!-- ghUSERNAMErepo with direct-url OK -->
+<!-- <img width="3600" alt="audio-meet readme header" src="https://github.com/DashCal/DashCal/blob/main/docs/asset/project/audio-meet/readme/header.svg#en" /> -->
+<!-- ghpages with ghio-domain NO -->
+<!-- <img width="3600" alt="audio-meet readme header" src="https://dashcal.github.io/DashCal/asset/project/audio-meet/readme/header.svg#en" /> -->
+<!-- ghrepo with rawgh commit hash OK -->
+<!-- <img width="3600" alt="audio-meet readme header" src="https://raw.githubusercontent.com/DashCal/gReadmeTest/048d36e16ec8c55b32a151f5cd84d98a34dac4a1/audio-meet-header-repo.svg#en" /> -->
 </a>
 
 <!-- <p>
