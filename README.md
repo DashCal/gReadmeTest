@@ -1,6 +1,6 @@
 <sup>
 <p align="right">
-<b>English</b>
+<b>(📍English)</b>
 | <a href="README.zh-CN.md">简体中文</a>
 | <a href="README.llm.md">LLM</a>
 </p>
