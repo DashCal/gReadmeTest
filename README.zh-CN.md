@@ -1,7 +1,7 @@
 <sup>
 <p align="right">
 <a href="README.md">English</a>
-| <b>简体中文</b>
+| <b>(📍简体中文)</b>
 | <a href="README.llm.md">LLM</a>
 </p>
 </sup>
